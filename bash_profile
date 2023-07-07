@@ -10,3 +10,4 @@
 alias gl='git log'
 alias gd='git diff'
 alias ga='git add $1'
+alias gall='git add .'
