@@ -16,3 +16,4 @@ alias gp='git push'
 
 # Git Commit
 alias gc='git commit -m $1'
+alias gca='git commit -a -m $1'
