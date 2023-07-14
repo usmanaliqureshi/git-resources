@@ -21,3 +21,5 @@ alias gca='git commit -a -m $1'
 # Git Checkout
 alias gco='git checkout $1'
 alias gcm='git checkout master'
+alias gcd='git checkout development'
+
