@@ -23,3 +23,5 @@ alias gco='git checkout $1'
 alias gcm='git checkout master'
 alias gcd='git checkout development'
 
+# Git Merge
+alias gm='git merge $1'
