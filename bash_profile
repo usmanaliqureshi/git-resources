@@ -25,3 +25,4 @@ alias gcd='git checkout development'
 
 # Git Merge
 alias gm='git merge $1'
+alias gmod='git merge remotes/origin/development'
