@@ -7,7 +7,7 @@
 # Git Aliases
 
 # Git General
-alias gl='git log'
+alias gl='git log --pretty=format:"%C(yellow)%h - %ad%Cred%d - %Creset%s%Cblue - [%cn]" --decorate --date=short;'
 alias gd='git diff'
 alias ga='git add $1'
 alias gall='git add .'
