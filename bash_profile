@@ -19,7 +19,7 @@ alias gc='git commit -m $1'
 alias gca='git commit -a -m $1'
 
 # Git Checkout
-alias gnb='git checkout -b $1'
+alias gnb='git checkout -b $1; git push --set-upstream origin $1'
 alias gco='git checkout $1'
 alias gcm='git checkout master'
 alias gcd='git checkout development'
